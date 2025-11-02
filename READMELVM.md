@@ -94,7 +94,7 @@ df -h
 ## 🧑‍💻 Author
 **Shyam Prakash S**  
 Systems Engineer | Python Developer | Linux & DevOps Enthusiast  
-[LinkedIn](https://linkedin.com/in/shyam-ps) | [Portfolio](https://shyamprakash.in)
+[LinkedIn](https://linkedin.com/in/shyam-ps) | [Portfolio](https://shyamprakash.xyz)
 
 ---
 

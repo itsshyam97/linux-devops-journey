@@ -355,19 +355,19 @@ This project helped me understand:
 
 ---
 
-# 📸 Screenshots
+# 📸 ## Screenshots
 
-```
-screenshots/
+### Docker Compose Services
 
-├── docker-compose-ps.png
-<img width="1313" height="110" alt="image" src="https://github.com/itsshyam97/linux-devops-journey/blob/main/project/Docker/wordpress-project/images/Screenshot%202026-07-06%20195748.png" />
-├── wordpress-homepage.png
-<img width="1911" height="999" alt="image" src="https://github.com/itsshyam97/linux-devops-journey/blob/main/project/Docker/wordpress-project/images/Screenshot%202026-07-06%20195510.png" />
-└── architecture.png
-<img width="425" height="177" alt="image" src="https://github.com/itsshyam97/linux-devops-journey/blob/main/project/Docker/wordpress-project/images/Screenshot%202026-07-06%20200432.png" />
+![Docker Compose](images/Screenshot%202026-07-06%20195748.png)
 
-```
+### WordPress Homepage
+
+![WordPress Homepage](images/Screenshot%202026-07-06%20195510.png)
+
+### Architecture
+
+![Architecture](images/Screenshot%202026-07-06%20200432.png)
 
 # 👨‍💻 Author
 

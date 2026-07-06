@@ -355,7 +355,7 @@ This project helped me understand:
 
 ---
 
-# 📸 ## Screenshots
+# 📸 Screenshots
 
 ### Docker Compose Services
 

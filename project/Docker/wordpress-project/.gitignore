@@ -1,0 +1,21 @@
+# Ignore WordPress source
+wordpress/
+
+# Ignore database files if any
+mysql-data/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.swp

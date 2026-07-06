@@ -361,11 +361,11 @@ This project helped me understand:
 screenshots/
 
 ├── docker-compose-ps.png
-<img width="1313" height="110" alt="image" src="https://github.com/user-attachments/assets/8b53e6c7-e1ca-4281-8c76-cb368de49a48" />
+<img width="1313" height="110" alt="image" src="https://github.com/itsshyam97/linux-devops-journey/blob/main/project/Docker/wordpress-project/images/Screenshot%202026-07-06%20195748.png" />
 ├── wordpress-homepage.png
-<img width="1911" height="999" alt="image" src="https://github.com/user-attachments/assets/d4d74c07-a654-4394-a3c0-1599f54451bf" />
+<img width="1911" height="999" alt="image" src="https://github.com/itsshyam97/linux-devops-journey/blob/main/project/Docker/wordpress-project/images/Screenshot%202026-07-06%20195510.png" />
 └── architecture.png
-<img width="425" height="177" alt="image" src="https://github.com/user-attachments/assets/ff59aeb9-a047-4c4c-a583-e8955a13b0c9" />
+<img width="425" height="177" alt="image" src="https://github.com/itsshyam97/linux-devops-journey/blob/main/project/Docker/wordpress-project/images/Screenshot%202026-07-06%20200432.png" />
 
 ```
 
